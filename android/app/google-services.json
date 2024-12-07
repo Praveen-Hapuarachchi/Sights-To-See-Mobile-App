@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "56731933210",
+    "project_id": "sight-to-see",
+    "storage_bucket": "sight-to-see.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:56731933210:android:4a04cd713d7b276ba68fa3",
+        "android_client_info": {
+          "package_name": "com.example.sightstosee"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD4xeQQHXzMBm_dMC7Sa96RPCMr41i4VlQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

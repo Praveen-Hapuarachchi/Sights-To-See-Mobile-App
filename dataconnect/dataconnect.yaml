@@ -1,0 +1,12 @@
+specVersion: "v1beta"
+serviceId: "sights_to_see"
+location: "us-central1"
+schema:
+  source: "./schema"
+  datasource:
+    postgresql:
+      database: "fdcdb"
+      cloudSql:
+        instanceId: "sights_to_see-fdc"
+      # schemaValidation: "COMPATIBLE"
+connectorDirs: ["./connector"]
